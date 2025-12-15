@@ -68,6 +68,12 @@ Sistemos tikslas – sukurti skatimeninę aplinką žaidimų megėjams, kurioje 
 <img width="1122" height="848" alt="image" src="https://github.com/user-attachments/assets/0d84a030-7651-4514-a208-949cd916412a" />
 
 ## API specifikacija
+[APIs](https://github.com/paupet7/GameLounge-frontend/blob/main/swagger-output.json)
+
+## Apibendrinimas
+
+Projektas sėkmingai įgyvendintas sukuriant pilnai veikiančią žaidimų megėjų bendravimo sistemą. Backend dalis sukurta naudojant Node.js ir deploy’int į Azure app services, kartu su Azure SQL duomenų baze. Frontend sukurtas su Vue.js ir pasiekiamas tinklalapyje pasitelkus Vercel, todėl svetainė yra greita ir moderni. Integruota autentifikacija su JWT įrankiu, rolės (Admin, User, Guest), žaidimų ir jų temų valdymas, komentarai bei tvarkinga REST API su OpenAPI specifikacija. Sistema paruošta naudojimui ir naujų įrankių kūrimui.
+
 
 
 
